@@ -99,9 +99,8 @@ These observations describe patterns to investigate; they are not proof that dis
 ```text
 superstore-sales-analysis/
 ├── README.md
-├── Superstore_Sales_Dashboard.pbix   # Power BI report (add your file)
-├── dashboard_screenshot.png          # Final dashboard image (add your file)
-
+├── Superstore_Sales_Dashboard.pbix   
+├── dashboard_screenshot.png         
 ```
 
 ## What I Learned
